@@ -278,5 +278,29 @@ footer {
     .mozilla-derechos-humanos {
         padding: 20px;
     }
+
+    .segunda-seccion {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .titulos-secciones {
+        font-size: 25px;
+    }
+
+    .texto-medio {
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .botones-mozilla {
+        text-align: center;
+    }
+
+    .producto-destacado {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
