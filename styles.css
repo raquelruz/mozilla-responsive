@@ -272,6 +272,11 @@ footer {
 
     .mozilla-products {
         text-align: center;
-        padding-top: 30px;
+        padding: 40px 0px;
+    }
+
+    .mozilla-derechos-humanos {
+        padding: 20px;
     }
 }
+
