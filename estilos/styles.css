@@ -1,0 +1,266 @@
+* {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+}
+
+.menu-navegacion {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+}
+
+.links-navegacion {
+    color: black;
+    font-size: 14px;
+}
+
+.boton-descarga {
+    font-size: 14px;
+    font-weight: bold;
+    border-color: #0250BB;
+    border-radius: 5px;
+    color: #0250BB;
+    background-color: #FFFFFF;
+    padding: 4px 24px;
+}
+
+.boton-descarga:hover {
+    font-size: 14px;
+    font-weight: bold;
+    border-color: #0250BB;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #0250BB;
+    padding: 4px 24px;
+}
+
+.divisor {
+    border: solid 1px lightgray;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#titulo-principal {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-size: 32px; 
+    font-weight: 700;
+    text-align: center;
+}
+
+#parrafo-principal {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mozilla-quotes {
+    background: linear-gradient(to right, #E7E8F4, #E4F5EC);
+}
+
+#titulo-quote {
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#mitchell-baker {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-size: 38px; 
+    font-weight: 700;
+    text-align: center;
+}
+
+img { 
+    padding: 10px 10px;
+}
+
+h3 {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 19px;
+}
+
+.botones-productos {
+    font-size: 14px;
+    font-weight: bold;
+    border-color: #000000;
+    border-radius: 5px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 4px 24px;
+}
+
+.botones-productos:hover {
+    background-color: #dbdbdb;
+}
+
+#derechos-humanos {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#politico {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+}
+
+.texto-medio {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+.titulos-secciones {
+    font-size: 38px;
+    text-align: center;
+}
+
+.botones-mozilla {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #000000;
+    color:#FFFFFF;
+    padding: 4px 24px;
+}
+
+.botones-mozilla:hover {
+    background-color: #dbdbdb;
+    color: #000000;
+}
+
+.producto-destacado {
+    background-color:#E7DFFF;
+}
+
+#titulo-destacado {
+    font-size: 16px;
+    text-align: center;
+    color: #7542E5;
+}
+
+#parrafo-destacado {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mozilla-vpn {
+    font-size: 28px;
+    text-align: center;
+    color: #7542E5;
+}
+
+
+#titulo-newsletters {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-size: 38px;
+}
+
+#parrafo-newsletters {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+}
+
+#correo {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.input-correo {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.boton-newsletters {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #000000;
+    color:#FFFFFF;
+    margin: 10px 0px 8px;
+    padding: 6px 24px;
+}
+
+.boton-newsletters:hover {
+    background-color: #dbdbdb;
+    color: #000000;
+    margin: 10px 0px 8px;
+    padding: 6px 24px;
+}
+
+.info-correo {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 12px;
+}
+
+footer {
+    background-color: #000000;
+}
+
+.titulo-footer {
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.links-footer {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration:none;
+
+}
+
+.rrss-mozilla {
+    color: #FFFFFF;
+}
+
+.rrss-firefox {
+    color: #FFFFFF;
+}
+
+.parrafo-footer {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.links-legal {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.parrafo-legal {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.mozilla-corporation {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.idioma-mozilla {
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+}
