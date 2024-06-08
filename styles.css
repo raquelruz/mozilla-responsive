@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
 }
 
+ul {
+    margin: 0;
+}
+
 .menu-navegacion {
     font-weight: bold;
     font-size: 16px;
@@ -213,9 +217,10 @@ footer {
     background-color: #000000;
 }
 
-.titulo-footer {
+.first-column-footer h5 {
     font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
     font-size: 16px;
+    padding: 0px 20px;
     color: #FFFFFF;
 }
 
@@ -321,6 +326,14 @@ footer {
 
     .newsletters {
         text-align: center;
+    }
+
+
+    .first-column-footer {
+        display: flex;
+        flex-direction: row;
+        margin: 0px 30px;
+        align-items: fl
     }
 }
 
